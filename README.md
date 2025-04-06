@@ -37,8 +37,7 @@ We welcome all students of **Jamhuriya University** to join **Jutsa**! Whether y
 
 Stay updated with our latest projects and community activities through the following:
 
-- [GitHub Discussions](https://github.com/JamhuriyaUniversity/jutsa/discussions)
-- [Email Us](mailto:email@example.com) for inquiries.
+- [Email Us](jutsadev@gmail.com) for inquiries.
 
 ---
 
